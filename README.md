@@ -44,6 +44,14 @@ Les actions de l’AP se structureront autour de 3 axes principaux.
 
 ### 3.  Questionner et formaliser les différences entre approches cartographiques et approches infovis/dataviz. Présentent-elles des différences fondamentales en termes de pratique de réalisation, de types de publics, de data-litteracy ou encore d’évaluation ?
 
+## Programme d’actions
+
+Différents types d’actions sont envisagés pour mettre en œuvre ces objectifs, en particulier lors des assises de MAGIS ou de la conférence SAGEO. Elles seront menées en privilégiant les collaborations avec d’autres AR, mais aussi avec la communauté infoviz/dataviz et des collectifs de recherche existants.
+
+    • Ateliers > Présentations et discussions autour d’objets et de thèmes spécifiques ;
+    • Journée d’étude > pour favoriser l’interconnaissance dans le cadre d’échanges avec d’autres communautés (infoviz, informatique, sciences sociales,...) ;
+    • Formation > format court (workshop, masterclass) et format long (école thématique) ;
+
 ## Références bibliographiques
 
 Bunge, W., 1962. Theoretical Geography. First Edition. Lund Studies in Geography Series C: General and Mathematical Geography. Lund, Sweden: Gleerup.
