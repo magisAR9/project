@@ -1,6 +1,6 @@
 # (Carto)graphies et (Géo)visualisations de données
 
-Action de recherche du [GdG MAGIS](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.g119281ffb81_0_7)
+Action de recherche du [GdR MAGIS](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.g119281ffb81_0_7)
 
 ## Mots-clés
 
