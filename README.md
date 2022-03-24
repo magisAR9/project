@@ -48,9 +48,9 @@ Les actions de l’AP se structureront autour de 3 axes principaux.
 
 Différents types d’actions sont envisagés pour mettre en œuvre ces objectifs, en particulier lors des assises de MAGIS ou de la conférence SAGEO. Elles seront menées en privilégiant les collaborations avec d’autres AR, mais aussi avec la communauté infoviz/dataviz et des collectifs de recherche existants.
 
-    • Ateliers > Présentations et discussions autour d’objets et de thèmes spécifiques ;
-    • Journée d’étude > pour favoriser l’interconnaissance dans le cadre d’échanges avec d’autres communautés (infoviz, informatique, sciences sociales,...) ;
-    • Formation > format court (workshop, masterclass) et format long (école thématique) ;
+- Ateliers > Présentations et discussions autour d’objets et de thèmes spécifiques ;
+- Journée d’étude > pour favoriser l’interconnaissance dans le cadre d’échanges avec d’autres communautés (infoviz, informatique, sciences sociales,...) ;
+- Formation > format court (workshop, masterclass) et format long (école thématique) ;
 
 ## Références bibliographiques
 
