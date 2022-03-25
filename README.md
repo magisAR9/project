@@ -12,7 +12,7 @@ Fabriques et usages cartographiques, (géo)visualisation, interaction, informati
 
 ## Porteurs
 
-Françoise Bahoken (CR IFSTTAR, AME), Anne-Christine Bronner (IR CNRS, SAGE), Etienne Côme (CR IFSTTAR, COSYS), Robin Cura (Post-Doc CNRS, Géographie-cités), Nicolas Lambert (IR CNRS, RIATE), Boris Mericskay (MCF Rennes 2, ESO)
+Françoise Bahoken (CR UGE, AME), Anne-Christine Bronner (IR CNRS, SAGE), Etienne Côme (CR UGE, COSYS), Robin Cura (Post-Doc CNRS, Géographie-cités), Nicolas Lambert (IR CNRS, RIATE), Boris Mericskay (MCF Rennes 2, ESO)
 
 ## Contexte, problématique et enjeux
 
