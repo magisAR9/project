@@ -2,6 +2,9 @@
 
 Action de recherche du [GdR MAGIS](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.g119281ffb81_0_7)
 
+Si vous souhaitez participez à cette action de recherche, vous pouvez contaxter Boris (*boris.mericskay[@]univ-rennes2.fr*) ou Nicolas (*nicolas.lambert[@]cnrs.fr*)
+
+
 ## Mots-clés
 
 Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
