@@ -2,19 +2,11 @@
 
 Action de recherche du [GdR MAGIS](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.g119281ffb81_0_7)
 
-Si vous souhaitez participez à cette action de recherche, vous pouvez contacter :
-- [Boris](mailto:boris.mericskay@univ-rennes2.fr)
-- [Nicolas](mailto:nicolas.lambert@cnrs.fr)
-
-et/ou vous inscrire à la liste de diffusion [cartogeoviz](http://listes.ifsttar.fr/wws/info/cartogeoviz-magis)
+## Porteurs/porteuses
+Françoise Bahoken (CR UGE, AME), Anne-Christine Bronner (IR CNRS, SAGE), Etienne Côme (CR UGE, COSYS), Robin Cura (MCF Paris 1, prodig), Nicolas Lambert (IR CNRS, RIATE), Boris Mericskay (MCF Rennes 2, ESO). </br> [Nous contacter](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr)
 
 ## Mots-clés
-
 Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
-
-## Porteurs
-
-Françoise Bahoken (CR UGE, AME), Anne-Christine Bronner (IR CNRS, SAGE), Etienne Côme (CR UGE, COSYS), Robin Cura (Post-Doc CNRS, Géographie-cités), Nicolas Lambert (IR CNRS, RIATE), Boris Mericskay (MCF Rennes 2, ESO)
 
 ## Contexte, problématique et enjeux
 
