@@ -1,9 +1,16 @@
 # (Carto)graphies et (Géo)visualisations de données
 
-Action de recherche du [GdR MAGIS](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.g119281ffb81_0_7)
+Action de recherche du [GdR MAGIS](https://docs.google.com/presentation/d/1vMbVFTlbGGtZzkIO2-XujwNUK82SWf_EGzqYgBKjX0E/edit#slide=id.g119281ffb81_0_7) (2022-2027)
 
 ## Porteurs/porteuses
-Françoise Bahoken (CR UGE, AME), Anne-Christine Bronner (IR CNRS, SAGE), Etienne Côme (CR UGE, COSYS), Robin Cura (MCF Paris 1, prodig), Nicolas Lambert (IR CNRS, RIATE), Boris Mericskay (MCF Rennes 2, ESO). </br> [Nous contacter](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr)
+* Françoise Bahoken (CR UGE, AME), 
+* Anne-Christine Bronner (IR CNRS, SAGE)
+* Etienne Côme (CR UGE, COSYS), 
+* Robin Cura (MCF Paris 1, prodig)
+* Nicolas Lambert (IR CNRS, RIATE), 
+* Boris Mericskay (MCF Rennes 2, ESO). </br> 
+
+[Nous contacter](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr)
 
 ## Mots-clés
 Fabriques et usages cartographiques, (géo)visualisation, interaction, information spatiale, sémiologie
